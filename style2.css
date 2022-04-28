@@ -1,0 +1,14 @@
+.w-full {
+    width: 40%;
+    height: 40%;
+}
+.btn-1 {
+    text-align: center;
+    background-color: blueviolet;
+    color: wheat;
+    padding: 10px;
+    border-radius: 6px;
+    margin-left: 9%;
+}
+
+
